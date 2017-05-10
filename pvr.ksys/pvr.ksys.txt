@@ -1,1 +1,1 @@
-pvr.ksys file://build/pvr.ksys
+pvr.ksys file:///build/pvr.ksys
