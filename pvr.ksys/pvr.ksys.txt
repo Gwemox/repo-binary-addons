@@ -1,0 +1,1 @@
+pvr.ksys  https://thibault.buathier@gitlab.k-net.fr/kodi/pvr.ksys.git
