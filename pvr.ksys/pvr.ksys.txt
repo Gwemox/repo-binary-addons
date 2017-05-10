@@ -1,1 +1,1 @@
-pvr.ksys  https://thibault.buathier@gitlab.k-net.fr/kodi/pvr.ksys.git
+pvr.ksys  pvr.ksys file://build/pvr.ksys
